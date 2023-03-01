@@ -33,7 +33,7 @@
 <h2 align="left">Most used Language</h2>
 
 <p align="left"> 
-  <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beshprakash11&layout=compact" />
+  <img  width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beshprakash11&layout=compact" />
 </p>
 
 <h2 align="left">Programming Langauage & Tools</h2>
