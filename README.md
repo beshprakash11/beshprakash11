@@ -4,12 +4,13 @@
 <h3>Connect With me:</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/ashutosh beshprakash" target="blank">
+  <a href="https://linkedin.com/in/er-besh-prakash-danuwar-a44a15156" target="blank">
     <img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/ashutosh mishra" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  
+  <a href=" https://www.facebook.com/besh.prakash/" target="blank">
+    <img  src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+  </a> 
 </p>
 
 <p align="center"> 
