@@ -1,7 +1,7 @@
 <img align="center" width="100%" height="50%" src="https://github.com/beshprakash11/beshprakash11/blob/main/background.png" />
 
 <h1 align="center">Hi 👋, I'm Besh P.d</h1>
-<h2 align="center">A passionate Software Engineer from Nepal <h4><b>Work in Germany</b></h4></h2>
+<h2 align="center">A passionate Software Engineer from Nepal <i>work in Germany</i></h2>
 
 
 <h3>Connect With me:</h3>
