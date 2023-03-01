@@ -18,8 +18,8 @@
 
 
 <p>   
-  <img aligin="left width="47%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=beshprakash11&show_icons=true&count_private=true&theme=radical" alt="ashutosh-pmishra" />
-  <img aligin="right" width="45%" height="195" src="https://github.com/beshprakash11/beshprakash11/blob/main/programming.gif" />
+  <img aligin="left width="40%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=beshprakash11&show_icons=true&count_private=true&theme=radical" alt="ashutosh-pmishra" />
+  <img aligin="right" width="40%" height="195" src="https://github.com/beshprakash11/beshprakash11/blob/main/programming.gif" />
 </p>
 
 
