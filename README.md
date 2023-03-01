@@ -30,6 +30,9 @@
 
 
 <p align="left">
+ <a href="https://developer.apple.com/tutorials/swiftui">
+  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
+ </a>
  <a href="https://dart.dev/">
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
  </a>
@@ -38,9 +41,6 @@
  </a>
  <a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
- </a>
- <a href="https://developer.apple.com/tutorials/swiftui">
-  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
  </a>
  <a href="https://developer.apple.com/xcode/">
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
