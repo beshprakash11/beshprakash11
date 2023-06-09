@@ -22,10 +22,11 @@
   <img aligin="right" width="40%" height="195" src="https://github.com/beshprakash11/beshprakash11/blob/main/programming.gif" />
 </p>
 
-
+<!--
 <p align="center"> 
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=beshprakash11&show_icons=true&count_private=true&theme=radical" />
 </p>
+-->
 
 
 
