@@ -59,6 +59,9 @@
  <a href="https://developer.android.com/">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
  </a>
+ <a href="https://developer.android.com/">
+  <img src="https://img.shields.io/badge/Type%20Script-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
+ </a>
  <a href="https://replit.com/~">
   <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"/>
  </a>
